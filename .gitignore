@@ -1,0 +1,9 @@
+# Model weights / generated model artifacts
+models/
+*.gguf
+*.safetensors
+
+# macOS
+.DS_Store
+
+tools/
