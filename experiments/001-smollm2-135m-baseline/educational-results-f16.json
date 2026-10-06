@@ -1,0 +1,302 @@
+[
+  {
+    "id": "math-001",
+    "category": "arithmetic",
+    "prompt": "Quanto é 12 vezes 8?",
+    "expected": "96",
+    "response": "A: 12 / 8 = 1.66666666666666667\n\nA: 12 / 8 = 1.66666666666666667\n\nA: 12 / 8 = 1.66666666666666667\n\nA: 12 / 8 = 1.66666666666666667\n\nA: 1",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Quanto é 12 vezes 8?\nA: 12 / 8 = 1.66666666666666667\n\nA: 12 / 8 = 1.66666666666666667\n\nA: 12 / 8 = 1.66666666666666667\n\nA: 12 / 8 = 1.66666666666666667\n\nA: 1\n\n[ Prompt: 657.3 t/s | Generation: 226.7 t/s ]\n\n\nExiting...",
+    "duration_ms": 1205,
+    "success": true
+  },
+  {
+    "id": "math-002",
+    "category": "arithmetic",
+    "prompt": "Quanto é 144 dividido por 12?",
+    "expected": "12",
+    "response": "144 dividido por 12.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Quanto é 144 dividido por 12?\n144 dividido por 12.\n\n[ Prompt: 775.4 t/s | Generation: 232.1 t/s ]\n\n\nExiting...",
+    "duration_ms": 383,
+    "success": true
+  },
+  {
+    "id": "math-003",
+    "category": "arithmetic",
+    "prompt": "Quanto é 25 mais 37?",
+    "expected": "62",
+    "response": "O Quanto é 25 mais 37?\n\nO Quanto é 25 mais 37? = 25 + 37 = 52.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Quanto é 25 mais 37?\nO Quanto é 25 mais 37?\n\nO Quanto é 25 mais 37? = 25 + 37 = 52.\n\n[ Prompt: 554.2 t/s | Generation: 229.2 t/s ]\n\n\nExiting...",
+    "duration_ms": 545,
+    "success": true
+  },
+  {
+    "id": "math-004",
+    "category": "arithmetic",
+    "prompt": "Quanto é 15% de 200?",
+    "expected": "30",
+    "response": "I'm sorry for the confusion, but as a chatbot, I don't have the capability to perform calculations or provide exact numbers. I'm designed to assist with mathematical calculations and provide information about the world around us. I'm not equipped to perform calculations or provide exact numbers.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Quanto é 15% de 200?\nI'm sorry for the confusion, but as a chatbot, I don't have the capability to perform calculations or provide exact numbers. I'm designed to assist with mathematical calculations and provide information about the world around us. I'm not equipped to perform calculations or provide exact numbers.\n\n[ Prompt: 759.0 t/s | Generation: 229.4 t/s ]\n\n\nExiting...",
+    "duration_ms": 580,
+    "success": true
+  },
+  {
+    "id": "math-005",
+    "category": "arithmetic",
+    "prompt": "Quanto é 7 vezes 9 menos 3?",
+    "expected": "60",
+    "response": "Ao esteixe, é 7 vezes 9 menos 3.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Quanto é 7 vezes 9 menos 3?\nAo esteixe, é 7 vezes 9 menos 3.\n\n[ Prompt: 741.1 t/s | Generation: 233.8 t/s ]\n\n\nExiting...",
+    "duration_ms": 421,
+    "success": true
+  },
+  {
+    "id": "reasoning-001",
+    "category": "math_reasoning",
+    "prompt": "João tem 3 caixas com 8 lápis em cada caixa. Quantos lápis ele tem ao todo? Explique o cálculo.",
+    "expected": "24",
+    "response": "Ao trabalha com João, você tem 3 caixas com 8 lápis. Quantos lápis ele tem ao todo?\n\nAo trabalha com João, você tem 3 caixas com 8 lápis. Quantos lápis ele tem ao todo?",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e João tem 3 caixas com 8 lápis em cada caixa. Quantos lápis ele tem ao todo? Explique o cálculo.\nAo trabalha com João, você tem 3 caixas com 8 lápis. Quantos lápis ele tem ao todo?\n\nAo trabalha com João, você tem 3 caixas com 8 lápis. Quantos lápis ele tem ao todo?\n\n[ Prompt: 864.5 t/s | Generation: 185.6 t/s ]\n\n\nExiting...",
+    "duration_ms": 789,
+    "success": true
+  },
+  {
+    "id": "reasoning-002",
+    "category": "math_reasoning",
+    "prompt": "Uma professora possui 30 livros e quer dividir igualmente entre 5 alunos. Quantos livros cada aluno recebe? Explique.",
+    "expected": "6",
+    "response": "O uma professora possui 30 livros e ainda não possui 5 alunos.\n\nO que é o que o uma professora possui? Essa informação é que o uma professora possui 30 livros e ainda não possui 5 alunos.\n\nO que é o que ainda não possui? Essa informação é que a uma professora não possui 5 livros e ainda não possui 30 livros.\n\nO que é o que ainda",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Uma professora possui 30 livros e quer dividir igualmente entre 5 alunos. Quantos livros cada aluno recebe? Explique.\nO uma professora possui 30 livros e ainda não possui 5 alunos.\n\nO que é o que o uma professora possui? Essa informação é que o uma professora possui 30 livros e ainda não possui 5 alunos.\n\nO que é o que ainda não possui? Essa informação é que a uma professora não possui 5 livros e ainda não possui 30 livros.\n\nO que é o que ainda\n\n[ Prompt: 841.7 t/s | Generation: 168.1 t/s ]\n\n\nExiting...",
+    "duration_ms": 1129,
+    "success": true
+  },
+  {
+    "id": "reasoning-003",
+    "category": "math_reasoning",
+    "prompt": "Maria tinha 50 reais e gastou 18 reais. Quanto dinheiro restou? Explique o cálculo.",
+    "expected": "32",
+    "response": "Aço: 50 reais + 18 reais = 68 reais\n\nQuanto dinheiro restou?\n\nAço: 68 reais / 50 reais = 1.25 reais\n\nQuanto dinheiro restou?\n\nAço: 1.25 reais / 50 reais = 0.02 reais\n\nQuanto dinheiro restou?\n\nAço: 0.02 reais / 50 reais = 0.00",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Maria tinha 50 reais e gastou 18 reais. Quanto dinheiro restou? Explique o cálculo.\nAço: 50 reais + 18 reais = 68 reais\n\nQuanto dinheiro restou?\n\nAço: 68 reais / 50 reais = 1.25 reais\n\nQuanto dinheiro restou?\n\nAço: 1.25 reais / 50 reais = 0.02 reais\n\nQuanto dinheiro restou?\n\nAço: 0.02 reais / 50 reais = 0.00\n\n[ Prompt: 865.6 t/s | Generation: 220.3 t/s ]\n\n\nExiting...",
+    "duration_ms": 931,
+    "success": true
+  },
+  {
+    "id": "reasoning-004",
+    "category": "math_reasoning",
+    "prompt": "Uma sala possui 4 filas com 6 cadeiras em cada fila. Quantas cadeiras existem? Explique.",
+    "expected": "24",
+    "response": "Uma sala possui 4 filas com 6 cadeiras em cada fila. Quantas cadeiras existem?",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Uma sala possui 4 filas com 6 cadeiras em cada fila. Quantas cadeiras existem? Explique.\nUma sala possui 4 filas com 6 cadeiras em cada fila. Quantas cadeiras existem?\n\n[ Prompt: 840.2 t/s | Generation: 237.9 t/s ]\n\n\nExiting...",
+    "duration_ms": 487,
+    "success": true
+  },
+  {
+    "id": "reasoning-005",
+    "category": "math_reasoning",
+    "prompt": "Pedro caminhou 2 quilômetros pela manhã e 3 quilômetros à tarde. Quantos quilômetros ele caminhou no total?",
+    "expected": "5",
+    "response": "O que é que você está caminhou? O que é que você está caminhou?",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Pedro caminhou 2 quilômetros pela manhã e 3 quilômetros à tarde. Quantos quilômetros ele caminhou no total?\nO que é que você está caminhou? O que é que você está caminhou?\n\n[ Prompt: 863.5 t/s | Generation: 242.5 t/s ]\n\n\nExiting...",
+    "duration_ms": 474,
+    "success": true
+  },
+  {
+    "id": "portuguese-001",
+    "category": "portuguese",
+    "prompt": "Qual é o plural da palavra 'animal'?",
+    "expected": "animais",
+    "response": "O plural da palavra 'animal' é 'papel'.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Qual é o plural da palavra 'animal'?\nO plural da palavra 'animal' é 'papel'.\n\n[ Prompt: 733.8 t/s | Generation: 243.0 t/s ]\n\n\nExiting...",
+    "duration_ms": 408,
+    "success": true
+  },
+  {
+    "id": "portuguese-002",
+    "category": "portuguese",
+    "prompt": "Na frase 'O menino correu rapidamente', qual palavra indica a ação realizada?",
+    "expected": "correu",
+    "response": "O menino correu rapidamente, qual palavra indica a ação realizada.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Na frase 'O menino correu rapidamente', qual palavra indica a ação realizada?\nO menino correu rapidamente, qual palavra indica a ação realizada.\n\n[ Prompt: 956.3 t/s | Generation: 244.9 t/s ]\n\n\nExiting...",
+    "duration_ms": 430,
+    "success": true
+  },
+  {
+    "id": "portuguese-003",
+    "category": "portuguese",
+    "prompt": "Qual é o contrário da palavra 'alto'?",
+    "expected": "baixo",
+    "response": "O contrário é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Qual é o contrário da palavra 'alto'?\nO contrário é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é\n\n[ Prompt: 632.6 t/s | Generation: 211.7 t/s ]\n\n\nExiting...",
+    "duration_ms": 953,
+    "success": true
+  },
+  {
+    "id": "portuguese-004",
+    "category": "portuguese",
+    "prompt": "Separe a palavra 'escola' em sílabas.",
+    "expected": "es-co-la",
+    "response": "A palavra é sílaba, pois você não pode separar em palabras.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Separe a palavra 'escola' em sílabas.\nA palavra é sílaba, pois você não pode separar em palabras.\n\n[ Prompt: 838.6 t/s | Generation: 244.3 t/s ]\n\n\nExiting...",
+    "duration_ms": 438,
+    "success": true
+  },
+  {
+    "id": "portuguese-005",
+    "category": "portuguese",
+    "prompt": "Explique de forma simples o que é um substantivo.",
+    "expected": "palavra que nomeia seres, objetos, lugares, sentimentos ou conceitos",
+    "response": "A substantivo é um objetivo que contém a forma simples de forma simples. Este é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Explique de forma simples o que é um substantivo.\nA substantivo é um objetivo que contém a forma simples de forma simples. Este é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples, que é um objetivo que contém a forma simples de forma simples\n\n[ Prompt: 787.8 t/s | Generation: 210.8 t/s ]\n\n\nExiting...",
+    "duration_ms": 944,
+    "success": true
+  },
+  {
+    "id": "science-001",
+    "category": "science",
+    "prompt": "Qual planeta é conhecido como Planeta Vermelho?",
+    "expected": "Marte",
+    "response": "Planeta Vermelho is a planet in the outer reaches of the galaxy. It is a terrestrial planet with a thick atmosphere and a surface temperature that is similar to Earth's. The planet is located in the outer reaches of the galaxy, and it is a terrestrial planet with a surface temperature that is similar to Earth's.\n\nPlaneta Vermelho is a terrestrial planet with a surface temperature that is similar to Earth's. It is a terrestrial planet with a surface temperature that is similar to Earth's. It is a terrestrial planet with a surface temperature that is similar to Earth's. It is a terrestrial planet with a surface temperature",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Qual planeta é conhecido como Planeta Vermelho?\nPlaneta Vermelho is a planet in the outer reaches of the galaxy. It is a terrestrial planet with a thick atmosphere and a surface temperature that is similar to Earth's. The planet is located in the outer reaches of the galaxy, and it is a terrestrial planet with a surface temperature that is similar to Earth's.\n\nPlaneta Vermelho is a terrestrial planet with a surface temperature that is similar to Earth's. It is a terrestrial planet with a surface temperature that is similar to Earth's. It is a terrestrial planet with a surface temperature that is similar to Earth's. It is a terrestrial planet with a surface temperature\n\n[ Prompt: 802.7 t/s | Generation: 232.0 t/s ]\n\n\nExiting...",
+    "duration_ms": 895,
+    "success": true
+  },
+  {
+    "id": "science-002",
+    "category": "science",
+    "prompt": "Por que precisamos beber água? Responda de forma simples para um aluno.",
+    "expected": "hidratação e funcionamento do organismo",
+    "response": "Por que precisamos beber água?\n\nPorque é importante que você precisaré água para que você pode ser ajudado a fazer a fase de acerca.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Por que precisamos beber água? Responda de forma simples para um aluno.\nPor que precisamos beber água?\n\nPorque é importante que você precisaré água para que você pode ser ajudado a fazer a fase de acerca.\n\n[ Prompt: 955.0 t/s | Generation: 239.7 t/s ]\n\n\nExiting...",
+    "duration_ms": 565,
+    "success": true
+  },
+  {
+    "id": "science-003",
+    "category": "science",
+    "prompt": "Qual gás do ar é utilizado pelo nosso corpo durante a respiração?",
+    "expected": "oxigênio",
+    "response": "Qual é um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exempl",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Qual gás do ar é utilizado pelo nosso corpo durante a respiração?\nQual é um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exemplo de um exempl\n\n[ Prompt: 906.7 t/s | Generation: 231.4 t/s ]\n\n\nExiting...",
+    "duration_ms": 900,
+    "success": true
+  },
+  {
+    "id": "science-004",
+    "category": "science",
+    "prompt": "Explique de forma simples por que existe dia e noite.",
+    "expected": "rotação da Terra",
+    "response": "In this case, the form of simples is \"simples simples\" or \"simples simples simples.\"",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Explique de forma simples por que existe dia e noite.\nIn this case, the form of simples is \"simples simples\" or \"simples simples simples.\"\n\n[ Prompt: 405.1 t/s | Generation: 229.8 t/s ]\n\n\nExiting...",
+    "duration_ms": 514,
+    "success": true
+  },
+  {
+    "id": "science-005",
+    "category": "science",
+    "prompt": "A água congela aproximadamente a quantos graus Celsius em condições normais?",
+    "expected": "0 graus Celsius",
+    "response": "A água congela aproximadamente é muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e A água congela aproximadamente a quantos graus Celsius em condições normais?\nA água congela aproximadamente é muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito\n\n[ Prompt: 971.6 t/s | Generation: 231.7 t/s ]\n\n\nExiting...",
+    "duration_ms": 897,
+    "success": true
+  },
+  {
+    "id": "teaching-001",
+    "category": "pedagogy",
+    "prompt": "Explique para uma criança de 10 anos por que 12 vezes 8 é igual a 96.",
+    "expected": "explicação correta e compreensível",
+    "response": "A criança de 10 anos por que 12 vezes 8 é igual a 96.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Explique para uma criança de 10 anos por que 12 vezes 8 é igual a 96.\nA criança de 10 anos por que 12 vezes 8 é igual a 96.\n\n[ Prompt: 1014.2 t/s | Generation: 237.2 t/s ]\n\n\nExiting...",
+    "duration_ms": 470,
+    "success": true
+  },
+  {
+    "id": "teaching-002",
+    "category": "pedagogy",
+    "prompt": "Explique de forma simples para um aluno o que significa multiplicar dois números.",
+    "expected": "explicação conceitualmente correta",
+    "response": "When two numbers are multiplied, the result is a product of the numbers themselves. This is a fundamental concept in mathematics, and it's often expressed using the multiplication table.\n\nThe multiplication table shows the possible products of two numbers, where each number is multiplied by a specific value. For example, the multiplication table for the numbers 2 and 3 is:\n\n| 2 | 2 × 2 = 4\n| 3 | 3 × 3 = 9\n| 4 | 4 × 4 = 16\n| 5 | 5 × 5 = 25",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Explique de forma simples para um aluno o que significa multiplicar dois números.\nWhen two numbers are multiplied, the result is a product of the numbers themselves. This is a fundamental concept in mathematics, and it's often expressed using the multiplication table.\n\nThe multiplication table shows the possible products of two numbers, where each number is multiplied by a specific value. For example, the multiplication table for the numbers 2 and 3 is:\n\n| 2 | 2 × 2 = 4\n| 3 | 3 × 3 = 9\n| 4 | 4 × 4 = 16\n| 5 | 5 × 5 = 25\n\n[ Prompt: 878.0 t/s | Generation: 237.1 t/s ]\n\n\nExiting...",
+    "duration_ms": 880,
+    "success": true
+  },
+  {
+    "id": "teaching-003",
+    "category": "pedagogy",
+    "prompt": "Um aluno respondeu que 5 vezes 6 é 35. Explique gentilmente onde está o erro e mostre a resposta correta.",
+    "expected": "5 vezes 6 é 30",
+    "response": "\"O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Um aluno respondeu que 5 vezes 6 é 35. Explique gentilmente onde está o erro e mostre a resposta correta.\n\"O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35. O erro é 5 vezes. O erro é 6. O erro é 35\n\n[ Prompt: 726.8 t/s | Generation: 225.5 t/s ]\n\n\nExiting...",
+    "duration_ms": 966,
+    "success": true
+  },
+  {
+    "id": "teaching-004",
+    "category": "pedagogy",
+    "prompt": "Crie uma pergunta simples de matemática envolvendo multiplicação para um aluno do ensino fundamental e forneça a resposta.",
+    "expected": "problema válido de multiplicação com resposta correta",
+    "response": "A pergunta simples de matemática envolvendo multiplicação para um aluno do ensino fundamental e fornece a resposta:\n\nA pergunta: \"Aplica um novo número de alunos de 1000 e fornece a resposta: \"Aplica um novo número de alunos de 1000 e fornece a resposta: \"Aplica um novo número de alunos de 1000 e fornece a",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Crie uma pergunta simples de matemática envolvendo multiplicação para um aluno do ensino fundamental e forneça a resposta.\nA pergunta simples de matemática envolvendo multiplicação para um aluno do ensino fundamental e fornece a resposta:\n\nA pergunta: \"Aplica um novo número de alunos de 1000 e fornece a resposta: \"Aplica um novo número de alunos de 1000 e fornece a resposta: \"Aplica um novo número de alunos de 1000 e fornece a\n\n[ Prompt: 874.0 t/s | Generation: 221.7 t/s ]\n\n\nExiting...",
+    "duration_ms": 948,
+    "success": true
+  },
+  {
+    "id": "teaching-005",
+    "category": "pedagogy",
+    "prompt": "Explique a diferença entre adição e multiplicação usando um exemplo simples.",
+    "expected": "distinção correta com exemplo",
+    "response": "Adição e multiplicação são uma das operações que são usadas para aumentar o número de transposição.\n\nAdição:\n\n- A transposição é a transição que o número de transposição é igual ou mais alta.\n- A transição é a transição que o número de transposição é mais alta ou igual ou mais menos alta.\n\nMultiplicação:\n\n- A transposi",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Explique a diferença entre adição e multiplicação usando um exemplo simples.\nAdição e multiplicação são uma das operações que são usadas para aumentar o número de transposição.\n\nAdição:\n\n- A transposição é a transição que o número de transposição é igual ou mais alta.\n- A transição é a transição que o número de transposição é mais alta ou igual ou mais menos alta.\n\nMultiplicação:\n\n- A transposi\n\n[ Prompt: 972.2 t/s | Generation: 226.0 t/s ]\n\n\nExiting...",
+    "duration_ms": 911,
+    "success": true
+  },
+  {
+    "id": "instruction-001",
+    "category": "instruction_following",
+    "prompt": "Responda apenas com o resultado: 9 vezes 7.",
+    "expected": "63",
+    "response": "A: 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7,",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Responda apenas com o resultado: 9 vezes 7.\nA: 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7, 9, 7,\n\n[ Prompt: 808.1 t/s | Generation: 231.2 t/s ]\n\n\nExiting...",
+    "duration_ms": 908,
+    "success": true
+  },
+  {
+    "id": "instruction-002",
+    "category": "instruction_following",
+    "prompt": "Responda em uma única frase: qual é a capital do Brasil?",
+    "expected": "Brasília",
+    "response": "A capital do Brasil é o Brasil capital do Brasil.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Responda em uma única frase: qual é a capital do Brasil?\nA capital do Brasil é o Brasil capital do Brasil.\n\n[ Prompt: 881.0 t/s | Generation: 244.0 t/s ]\n\n\nExiting...",
+    "duration_ms": 401,
+    "success": true
+  },
+  {
+    "id": "instruction-003",
+    "category": "instruction_following",
+    "prompt": "Dê exatamente dois exemplos de animais mamíferos.",
+    "expected": "exatamente dois mamíferos",
+    "response": "Dê exatamente dois exemplos de animais mamíferos.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Dê exatamente dois exemplos de animais mamíferos.\nDê exatamente dois exemplos de animais mamíferos.\n\n[ Prompt: 718.6 t/s | Generation: 231.6 t/s ]\n\n\nExiting...",
+    "duration_ms": 425,
+    "success": true
+  },
+  {
+    "id": "instruction-004",
+    "category": "instruction_following",
+    "prompt": "Explique fotossíntese usando no máximo duas frases.",
+    "expected": "explicação correta em até duas frases",
+    "response": "Fotossíntese usando no máximo duas frases:\n\n1. \"The sun rises in the east.\"\n2. \"The sun rises in the west.\"\n\nPara usar todos os duas frases, use o seguinte formato:\n\nFotossíntese usando no máximo duas frases:\n\nFotossíntese usando no máximo duas frases:\n\nFotossíntese usando no máximo duas frases:\n\nFotoss",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Explique fotossíntese usando no máximo duas frases.\nFotossíntese usando no máximo duas frases:\n\n1. \"The sun rises in the east.\"\n2. \"The sun rises in the west.\"\n\nPara usar todos os duas frases, use o seguinte formato:\n\nFotossíntese usando no máximo duas frases:\n\nFotossíntese usando no máximo duas frases:\n\nFotossíntese usando no máximo duas frases:\n\nFotoss\n\n[ Prompt: 875.6 t/s | Generation: 223.0 t/s ]\n\n\nExiting...",
+    "duration_ms": 918,
+    "success": true
+  },
+  {
+    "id": "instruction-005",
+    "category": "instruction_following",
+    "prompt": "Responda 'verdadeiro' ou 'falso': a Terra gira ao redor do Sol.",
+    "expected": "verdadeiro",
+    "response": "A Terra gira ao redor do Sol.",
+    "raw_output": "Loading model... \n\n▄▄ ▄▄\n██ ██\n██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄\n██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██\n██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀\n                                    ██    ██\n                                    ▀▀    ▀▀\n\nbuild      : b11429-d81235049\nmodel      : models/gguf/smollm2-135m-instruct-f16.gguf\nftype      : F16\nmodalities : text\n\navailable commands:\n  /exit or Ctrl+C     stop or exit\n  /regen              regenerate the last response\n  /clear              clear the chat history\n  /read \u003cfile\u003e        add a text file\n  /glob \u003cpattern\u003e     add text files using globbing pattern\n\n\n\n\u003e Responda 'verdadeiro' ou 'falso': a Terra gira ao redor do Sol.\nA Terra gira ao redor do Sol.\n\n[ Prompt: 902.4 t/s | Generation: 240.9 t/s ]\n\n\nExiting...",
+    "duration_ms": 393,
+    "success": true
+  }
+]

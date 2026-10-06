@@ -1,0 +1,23 @@
+=== DATE ===
+Tue Oct  6 10:48:53 -03 2026
+
+=== MACOS ===
+ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
+
+=== HARDWARE ===
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: Mac17,3
+      Model Number: MDHE4LL/A
+      Chip: Apple M5
+      Total Number of Cores: 10 (4 Super and 6 Efficiency)
+      Memory: 16 GB
+
+
+=== ARCH ===
+arm64

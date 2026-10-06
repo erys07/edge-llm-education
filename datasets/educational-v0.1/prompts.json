@@ -1,0 +1,182 @@
+[
+  {
+    "id": "math-001",
+    "category": "arithmetic",
+    "prompt": "Quanto é 12 vezes 8?",
+    "expected": "96"
+  },
+  {
+    "id": "math-002",
+    "category": "arithmetic",
+    "prompt": "Quanto é 144 dividido por 12?",
+    "expected": "12"
+  },
+  {
+    "id": "math-003",
+    "category": "arithmetic",
+    "prompt": "Quanto é 25 mais 37?",
+    "expected": "62"
+  },
+  {
+    "id": "math-004",
+    "category": "arithmetic",
+    "prompt": "Quanto é 15% de 200?",
+    "expected": "30"
+  },
+  {
+    "id": "math-005",
+    "category": "arithmetic",
+    "prompt": "Quanto é 7 vezes 9 menos 3?",
+    "expected": "60"
+  },
+  {
+    "id": "reasoning-001",
+    "category": "math_reasoning",
+    "prompt": "João tem 3 caixas com 8 lápis em cada caixa. Quantos lápis ele tem ao todo? Explique o cálculo.",
+    "expected": "24"
+  },
+  {
+    "id": "reasoning-002",
+    "category": "math_reasoning",
+    "prompt": "Uma professora possui 30 livros e quer dividir igualmente entre 5 alunos. Quantos livros cada aluno recebe? Explique.",
+    "expected": "6"
+  },
+  {
+    "id": "reasoning-003",
+    "category": "math_reasoning",
+    "prompt": "Maria tinha 50 reais e gastou 18 reais. Quanto dinheiro restou? Explique o cálculo.",
+    "expected": "32"
+  },
+  {
+    "id": "reasoning-004",
+    "category": "math_reasoning",
+    "prompt": "Uma sala possui 4 filas com 6 cadeiras em cada fila. Quantas cadeiras existem? Explique.",
+    "expected": "24"
+  },
+  {
+    "id": "reasoning-005",
+    "category": "math_reasoning",
+    "prompt": "Pedro caminhou 2 quilômetros pela manhã e 3 quilômetros à tarde. Quantos quilômetros ele caminhou no total?",
+    "expected": "5"
+  },
+  {
+    "id": "portuguese-001",
+    "category": "portuguese",
+    "prompt": "Qual é o plural da palavra 'animal'?",
+    "expected": "animais"
+  },
+  {
+    "id": "portuguese-002",
+    "category": "portuguese",
+    "prompt": "Na frase 'O menino correu rapidamente', qual palavra indica a ação realizada?",
+    "expected": "correu"
+  },
+  {
+    "id": "portuguese-003",
+    "category": "portuguese",
+    "prompt": "Qual é o contrário da palavra 'alto'?",
+    "expected": "baixo"
+  },
+  {
+    "id": "portuguese-004",
+    "category": "portuguese",
+    "prompt": "Separe a palavra 'escola' em sílabas.",
+    "expected": "es-co-la"
+  },
+  {
+    "id": "portuguese-005",
+    "category": "portuguese",
+    "prompt": "Explique de forma simples o que é um substantivo.",
+    "expected": "palavra que nomeia seres, objetos, lugares, sentimentos ou conceitos"
+  },
+  {
+    "id": "science-001",
+    "category": "science",
+    "prompt": "Qual planeta é conhecido como Planeta Vermelho?",
+    "expected": "Marte"
+  },
+  {
+    "id": "science-002",
+    "category": "science",
+    "prompt": "Por que precisamos beber água? Responda de forma simples para um aluno.",
+    "expected": "hidratação e funcionamento do organismo"
+  },
+  {
+    "id": "science-003",
+    "category": "science",
+    "prompt": "Qual gás do ar é utilizado pelo nosso corpo durante a respiração?",
+    "expected": "oxigênio"
+  },
+  {
+    "id": "science-004",
+    "category": "science",
+    "prompt": "Explique de forma simples por que existe dia e noite.",
+    "expected": "rotação da Terra"
+  },
+  {
+    "id": "science-005",
+    "category": "science",
+    "prompt": "A água congela aproximadamente a quantos graus Celsius em condições normais?",
+    "expected": "0 graus Celsius"
+  },
+  {
+    "id": "teaching-001",
+    "category": "pedagogy",
+    "prompt": "Explique para uma criança de 10 anos por que 12 vezes 8 é igual a 96.",
+    "expected": "explicação correta e compreensível"
+  },
+  {
+    "id": "teaching-002",
+    "category": "pedagogy",
+    "prompt": "Explique de forma simples para um aluno o que significa multiplicar dois números.",
+    "expected": "explicação conceitualmente correta"
+  },
+  {
+    "id": "teaching-003",
+    "category": "pedagogy",
+    "prompt": "Um aluno respondeu que 5 vezes 6 é 35. Explique gentilmente onde está o erro e mostre a resposta correta.",
+    "expected": "5 vezes 6 é 30"
+  },
+  {
+    "id": "teaching-004",
+    "category": "pedagogy",
+    "prompt": "Crie uma pergunta simples de matemática envolvendo multiplicação para um aluno do ensino fundamental e forneça a resposta.",
+    "expected": "problema válido de multiplicação com resposta correta"
+  },
+  {
+    "id": "teaching-005",
+    "category": "pedagogy",
+    "prompt": "Explique a diferença entre adição e multiplicação usando um exemplo simples.",
+    "expected": "distinção correta com exemplo"
+  },
+  {
+    "id": "instruction-001",
+    "category": "instruction_following",
+    "prompt": "Responda apenas com o resultado: 9 vezes 7.",
+    "expected": "63"
+  },
+  {
+    "id": "instruction-002",
+    "category": "instruction_following",
+    "prompt": "Responda em uma única frase: qual é a capital do Brasil?",
+    "expected": "Brasília"
+  },
+  {
+    "id": "instruction-003",
+    "category": "instruction_following",
+    "prompt": "Dê exatamente dois exemplos de animais mamíferos.",
+    "expected": "exatamente dois mamíferos"
+  },
+  {
+    "id": "instruction-004",
+    "category": "instruction_following",
+    "prompt": "Explique fotossíntese usando no máximo duas frases.",
+    "expected": "explicação correta em até duas frases"
+  },
+  {
+    "id": "instruction-005",
+    "category": "instruction_following",
+    "prompt": "Responda 'verdadeiro' ou 'falso': a Terra gira ao redor do Sol.",
+    "expected": "verdadeiro"
+  }
+]
